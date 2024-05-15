@@ -1,0 +1,22 @@
+{
+  "Criterias": [
+    {
+      "0": {
+        "type": "student-to-instructor",
+        "category": "rr",
+        "criteria": "",
+        "weight": "3"
+      },
+      "id": "b57b"
+    },
+    {
+      "0": {
+        "type": "head-to-instructor",
+        "category": "",
+        "criteria": "",
+        "weight": ""
+      },
+      "id": "e834"
+    }
+  ]
+}

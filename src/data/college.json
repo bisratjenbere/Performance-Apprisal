@@ -1,0 +1,18 @@
+{
+  "Colleges": [
+    {
+      "id": "042d",
+      "Cname": "fff",
+      "Ccode": "fff",
+      "dean": "hhh",
+      "Dnumber": 1
+    },
+    {
+      "id": "322d",
+      "Cname": "ooo",
+      "Dnumber": "5",
+      "dean": "yyy",
+      "Ccode": "klklk"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "Cname": "ffff",
+      "Ccode": "ffff",
+      "instructor": "ffff",
+      "batch": 2012,
+      "semester": 2
+    },
+    {
+      "id": "992b",
+      "Cname": "fff",
+      "Ccode": "fff",
+      "instructor": "A",
+      "batch": "2012",
+      "semester": "2"
+    },
+    {
+      "id": "e0d5",
+      "Cname": "fff",
+      "Ccode": "klklk",
+      "instructor": "A",
+      "batch": "2011",
+      "semester": "1"
+    }
+  ]
+}

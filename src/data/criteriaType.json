@@ -1,0 +1,36 @@
+{
+  "Criteria_Type": [
+    {
+      "id": 1,
+      "appraisalType": "Peer-Academic-To-Academic"
+    },
+    {
+      "id": 2,
+      "appraisalType": "Self"
+    },
+    {
+      "id": 3,
+      "appraisalType": " Director-To-Team-Leader"
+    },
+    {
+      "id": 4,
+      "appraisalType": "Team-Leader-To-Empoyee"
+    },
+    {
+      "id": 5,
+      "appraisalType": " Head-To-Instructor"
+    },
+    {
+      "id": 6,
+      "appraisalType": "  Student-To-Instructor"
+    },
+    {
+      "id": 7,
+      "appraisalType": "  Peer-Administrative-To-Administrative"
+    },
+    {
+      "id": 8,
+      "appraisalType": "Dean-To-Head"
+    }
+  ]
+}
