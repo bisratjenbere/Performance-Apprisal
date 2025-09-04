@@ -3,6 +3,10 @@
 This is the **frontend application** of the Performance Appraisal System, built with **React**.  
 It provides an interactive user interface for employees, managers, and admins to participate in performance reviews, give feedback, and track appraisal cycles.
 
+## Live Demo
+
+Check out the live app here:https://wkuapprisal.netlify.app/admin
+
 ---
 
 ## Screenshots
