@@ -8,7 +8,9 @@ It provides an interactive user interface for employees, managers, and admins to
 ## Screenshots
 
 ![admin](./screenshot/admin1.png)
-![head](./screenshot/head.png.png)
+![head](./screenshot/head.png)
+![Student](./screenshot/student.png)
+![Student](./screenshot/dean.png)
 
 ## ✨ Features
 
