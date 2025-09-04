@@ -5,7 +5,7 @@ It provides an interactive user interface for employees, managers, and admins to
 
 ## Live Demo
 
-Check out the live app here:https://wkuapprisal.netlify.app/admin
+Check out the live app here:https://wkuapprisal.netlify.app
 
 ---
 
